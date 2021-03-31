@@ -7,7 +7,7 @@ import matplotlib.ticker as ticker
 from lib.misc import location_placeholder
 from tkinter import messagebox
 
-API_KEY  = "866da5bb6a904a5a8289e2cf6debfe3c"
+API_KEY  = "<Your OpenWeatherMap API key>"
 LOCATION = ""
 FORECAST = {}
 
